@@ -458,7 +458,7 @@ switch ($pageHash) {
 }
 
 // Ай, фиг с ним, пусть все смотрят :)
-$flags[1] = $flags[2] = $flags[3] = $flags[4] = $flags[5] = $flags[6] = true;
+$flags[1] = $flags[2] = $flags[3] = $flags[4] = $flags[5] = $flags[6] = $flags[7] = true;
 
 ?>
 <!DOCTYPE html>
